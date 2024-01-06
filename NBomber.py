@@ -213,7 +213,3 @@ if (__name__ == "__main__"):
     logo()
     update()
     main()
-    from more.data import *
-    logo()
-    update()
-    main()
